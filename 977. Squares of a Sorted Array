@@ -1,0 +1,22 @@
+class Solution {
+    public int[] sortedSquares(int[] nums) {
+        int i = 0;  // left pointer
+        int j = nums.length-1;  // right pointer 
+        int[] ans = new int[nums.length]; // answer array
+
+        for (int k = nums.length-1; k >=0 ; k--){     // in a loop
+            if (Math.abs(nums[i]) > Math.abs(nums[j])){  // if absolute value of left is greater than right 
+                ans[k] = nums[i] * nums[i];      // make left element square and increment 
+                i++;
+
+            }else {
+                ans[k] = nums[j] * nums[j]; // make right elemnent sqaure and decrement 
+                j--;
+            }
+            
+        }
+        
+      return ans;
+
+    }
+}
