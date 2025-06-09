@@ -72,7 +72,7 @@ This repository contains:
 
 ## 📖 Learning Resources
 
-* [Kunal Kushwaha’s DSA Bootcamp](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=KzW32StGjUgbpR99))
+* [Kunal Kushwaha’s DSA Bootcamp]([https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ])
 ---
 
 ## 🤝 Contributions & Feedback
