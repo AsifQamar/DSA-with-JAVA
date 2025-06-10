@@ -1,0 +1,22 @@
+https://leetcode.com/problems/majority-element-ii/description/
+
+class Solution {
+    public List<Integer> majorityElement(int[] nums) {
+        Map<Integer, Integer> map = new HashMap<>(); // Frequency map
+        List<Integer> result = new ArrayList<>();
+        int n = nums.length;
+
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1); // Count frequency
+        }
+
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            if (entry.getValue() > n / 3) {
+                result.add(entry.getKey()); // Add elements with freq > n/3
+            }
+        }
+
+        return result;
+    }
+}
+   
