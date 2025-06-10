@@ -1,0 +1,21 @@
+https://leetcode.com/problems/majority-element/
+
+
+class Solution {
+    public int majorityElement(int[] nums) {
+        // O(n) time, O(n) space
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>(); // HashMap to store frequency of each element
+        int result = 0;  // Variable to store the majority element
+        
+        for (int num : nums) {    // Loop through each element in the array
+            map.put(num, map.getOrDefault(num, 0) + 1);  // Update the frequency count
+            
+            if (map.get(num) > nums.length / 2) {  // Check if it is the majority element
+                result = num; // Store the result
+                break; // No need to continue if majority found
+            }
+        }
+        
+        return result; // Return the majority element
+    }
+}
