@@ -1,0 +1,20 @@
+class Solution {  // kadane's algorithm
+    public int maxSubArray(int[] InputArray) {
+
+        int max_sum = InputArray[0]; // max_sum will be the first element of array (starting value)
+        int current_sum = max_sum;   // current_sum is also initialized with first element
+
+        for (int i = 1; i < InputArray.length; i++) { // loop starts from 2nd element to end
+
+            // Check: is it better to add current element to the previous subarray (current_sum)
+            // or start a new subarray from current element?
+            // Example: if InputArray[i] = 3 and current_sum = 1, check which is better: 1+3 or 3
+            current_sum = Math.max(InputArray[i] + current_sum, InputArray[i]);
+
+            // Update max_sum if current_sum is greater
+            max_sum = Math.max(max_sum, current_sum);
+        }
+
+        return max_sum; // return the final maximum subarray sum
+    }
+}
