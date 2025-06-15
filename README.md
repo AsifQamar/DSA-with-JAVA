@@ -80,10 +80,8 @@ This repository contains:
 
 If you find any issues or want to contribute, please open an issue or pull request.
 
-![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=AsifQamar.DSA-with-JAVA)
-
 ---
 
-Thanks for visiting! Happy coding! 🚀
+Thanks for visiting! Happy coding! 🚀 ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=AsifQamar.DSA-with-JAVA)
 
 
