@@ -4,6 +4,7 @@ Welcome to my **DSA repository** where I practice and implement Data Structures 
 
 * **Kunal Kushwaha's DSA Bootcamp**
 * **AlgoCamp DSA Program**
+* **My Currated DSA questions**
 ---
 
 ## 🚀 About This Repo
@@ -11,7 +12,7 @@ Welcome to my **DSA repository** where I practice and implement Data Structures 
 This repository contains:
 
 * Well-explained and clean implementations of DSA problems in Java
-* Solutions to problems covered in Kunal Kushwaha's DSA Bootcamp and AlgoCamp
+* Solutions to problems covered in Kunal Kushwaha's DSA Bootcamp and AlgoCamp and My DSA sheet
 ---
 
 ## 📚 Topics Covered
