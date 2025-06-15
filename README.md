@@ -82,6 +82,5 @@ If you find any issues or want to contribute, please open an issue or pull reque
 
 ---
 
-Thanks for visiting! Happy coding! 🚀 ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=AsifQamar.DSA-with-JAVA)
-
+Thanks for visiting! Happy coding! 🚀 
 
