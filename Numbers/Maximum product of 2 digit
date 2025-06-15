@@ -1,0 +1,21 @@
+class Solution {
+    public int maxProduct(int n) {
+        int first_max = 0;
+        int second_max = 0;
+
+        while (n > 0) {
+            int digit = n % 10; // get last digit
+
+            if (digit >= first_max) {
+                second_max = first_max; // if digit is greater than first max , second max gets the value of first max
+                first_max = digit;      // and first max gets the digit value
+            } else if (digit > second_max) {
+                second_max = digit;     // if digit is greater than second max , it will take the vaalue of digit
+            }
+
+            n /= 10; // remove last digit
+        }
+
+        return first_max * second_max; // return product of two largest digits
+    }
+}
