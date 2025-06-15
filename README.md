@@ -1,4 +1,6 @@
 # Data Structures & Algorithms (DSA) in Java
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=AsifQamar.DSA-with-JAVA)
+
 
 Welcome to my **DSA repository** where I practice and implement Data Structures and Algorithms using **Java**. This repo follows a structured learning path based on some of the best resources available:
 
