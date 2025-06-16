@@ -1,0 +1,28 @@
+class Solution {
+    public int[] sortArrayByParity(int[] nums) {
+        // Start pointer from beginning of array
+        int left = 0;
+        // Start another pointer from end of array
+        int right = nums.length - 1;
+
+        // Loop until both pointers meet
+        while (left < right) {
+            // If the number at left is even, it's already in correct place
+            if (nums[left] % 2 == 0) {
+                left++;  // So we move to next element
+            } 
+            // If the number at right is odd, it's already in correct place
+            else if (nums[right] % 2 == 1) {
+                right--;  // So we move left from the end
+            } 
+            // If left is odd and right is even, we need to swap them
+            else {
+                int temp = nums[left];       // Store left value temporarily
+                nums[left] = nums[right];    // Put even number on the left side
+                nums[right] = temp;          // Put odd number on the right side
+            }
+        }
+        // Return the rearranged array with even numbers first
+        return nums;
+    }
+}
