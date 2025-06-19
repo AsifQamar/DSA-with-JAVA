@@ -1,0 +1,33 @@
+class Solution {                                                                Sieve of Eratosthenes - O(N*log(log(N))) Time and O(n) Space
+    public int countPrimes(int n) {
+        // If n is less than 2, there are no primes less than n
+        if (n < 2) return 0;
+
+        // Create a boolean array to mark prime numbers (true = prime)
+        boolean[] array = new boolean[n];
+
+        // Initially assume all numbers from 0 to n-1 are prime
+        Arrays.fill(array, true);
+
+        // Start marking non-prime numbers using Sieve of Eratosthenes
+        // Outer loop runs from 2 to sqrt(n)
+        for (int i = 2; i * i < n; i++) {
+            // Only proceed if i is still marked as prime
+            if (array[i]) {
+                // Inner loop marks all multiples of i as non-prime
+                for (int j = i; j * i < n; j++) {
+                    array[i * j] = false;
+                }
+            }
+        }
+
+        // Count all numbers marked as prime from 2 to n-1
+        int count = 0;
+        for (int i = 2; i < array.length; i++) {
+            if (array[i]) count++;
+        }
+
+        // Return the count of prime numbers less than n
+        return count;
+    }
+}
