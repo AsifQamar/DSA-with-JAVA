@@ -1,0 +1,42 @@
+class Solution {
+    public int maximumSwap(int num) {
+        // Convert the given number to a character array to work with individual digits
+        char[] s = Integer.toString(num).toCharArray();
+    
+        // Create an array to store the last occurrence index of each digit (0 to 9)
+        int[] last = new int[10];
+        
+        // Initialize all positions as -1 (means digit not found yet)
+        for (int i = 0; i < 10; i++) {
+            last[i] = -1;
+        }
+
+        // Traverse from right to left to record the **last occurrence** of each digit
+        for (int i = s.length - 1; i >= 0; i--) {
+            int val = s[i] - '0'; // Convert character digit to integer
+            if (last[val] == -1) {
+                last[val] = i; // Store the index only if it's the **first time from right** (i.e., last occurrence from left)
+            }
+        }
+
+        // Now, scan each digit from left to right to find an opportunity to swap
+        for (int i = 0; i < s.length; i++) {
+            // Try to find a **larger digit (from 9 down to current digit + 1)** that occurs later
+            for (int j = 9; j > s[i] - '0'; j--) {
+                // If a larger digit 'j' is found **after** position i, then we can swap
+                if (last[j] > i) {
+                    // Swap the current digit s[i] with the digit s[last[j]] (which is larger)
+                    char temp = s[i];
+                    s[i] = s[last[j]];
+                    s[last[j]] = temp;
+                    
+                    // After swapping once (greedy approach), convert the char array back to integer and return
+                    return Integer.parseInt(new String(s));
+                }
+            }
+        }
+
+        // If no swap was possible, the number is already the maximum, return as is
+        return num;
+    }
+}
