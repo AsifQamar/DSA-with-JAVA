@@ -1,0 +1,23 @@
+public class Solution extends VersionControl {
+    public int firstBadVersion(int n) {
+        int left = 1;           // start of version range (versions start from 1)
+        int right = n;          // end of version range (n is the latest version)
+
+        // Binary search to minimize API calls
+        while (left <= right) {
+            // Calculate mid to avoid integer overflow (same as (left + right)/2)
+            int mid = left + (right - left) / 2;
+
+            // If mid version is bad, the first bad version could be at mid or before
+            if (isBadVersion(mid)) {
+                right = mid - 1;    // Move search space to left half
+            } else {
+                // If mid is good, the bad version must be in the right half
+                left = mid + 1;
+            }
+        }
+
+        // At the end of loop, left points to the first version that is bad
+        return left;
+    }
+}
