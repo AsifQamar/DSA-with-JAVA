@@ -1,0 +1,61 @@
+class Solution {
+    public int shipWithinDays(int[] weights, int days) {
+        // Minimum capacity is the max weight (must fit largest item)
+        int left = Max(weights);
+
+        // Maximum capacity is the sum of all weights (1 trip)
+        int right = Sum(weights);
+        int result = right;
+
+        // Binary search for the smallest capacity that works
+        while (left <= right) {
+            int cap = (left + right) / 2; 
+
+            if (canShip(weights, days, cap)) {
+                result = cap;         // try a smaller capacity
+                right = cap - 1;
+            } else {
+                left = cap + 1;       // need more capacity
+            }
+        }
+
+        return result;
+    }
+
+    // Helper to check if it's possible to ship within 'days' using 'cap' capacity
+    private boolean canShip(int[] weights, int days, int cap) {
+        int ships = 1;
+        int curCap = cap;
+
+        for (int w : weights) {
+            if (w > cap) return false; // edge case: weight > capacity
+
+            if (curCap - w < 0) {
+                ships++;         // need a new day (ship)
+                curCap = cap;    // reset capacity
+            }
+
+            curCap -= w;         // place weight in ship
+        }
+
+        return ships <= days;
+    }
+
+    // Helper to get max element in array
+    private int Max(int[] arr) {
+        int max = arr[0];
+        for (int num : arr) {
+            max = Math.max(max, num);
+        }
+        return max;
+    }
+
+    // Helper to get sum of array
+    private int Sum(int[] arr) {
+        int sum = 0;
+        for (int num : arr) {
+            sum += num;
+        }
+        return sum;
+    }
+}
