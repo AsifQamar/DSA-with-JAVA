@@ -1,0 +1,34 @@
+class Solution {
+    public boolean checkSubarraySum(int[] nums, int k) {
+        // Map to store remainder and first index where that remainder came
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, -1); // start with remainder 0 at index -1 to handle full array cases
+
+        int sum = 0; // running sum of array elements
+
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i]; // add current number to total sum
+
+            int remainder;
+            if (k != 0) {
+                remainder = sum % k; // take mod only if k is not zero
+            } else {
+                remainder = sum; // if k is zero, just use sum (to avoid crash)
+            }
+
+            // if we saw this remainder before
+            if (map.containsKey(remainder)) {
+                int prevIndex = map.get(remainder);
+                // check if subarray length is at least 2
+                if (i - prevIndex >= 2) {
+                    return true; // yes, found subarray whose sum is multiple of k
+                }
+            } else {
+                // store this remainder with current index (only first time)
+                map.put(remainder, i);
+            }
+        }
+
+        return false; // no valid subarray found
+    }
+}
