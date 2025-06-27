@@ -1,0 +1,33 @@
+class Solution {
+    public int maxProduct(int[] nums) {
+        // Initialize the result with the first element
+        int result = nums[0];
+
+        // We keep two running values:
+        // max - maximum product ending at current position
+        // min - minimum product ending at current position
+        int max= nums[0];
+        int min= nums[0];
+
+        // Start looping from second element
+        for (int i = 1; i < nums.length; i++) {
+            int current = nums[i];
+
+            // If current is negative, swap max and min
+            if (current < 0) {
+                int temp = max;
+                max = min;
+                min = temp;
+            }
+
+            // Now calculate new max and min
+            max = Math.max(current, current * max);
+            min = Math.min(current, current * min);
+
+            // Update result if current max is bigger
+            result = Math.max(result, max);
+        }
+
+        return result;
+    }
+}
