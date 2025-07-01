@@ -1,0 +1,20 @@
+class Solution {                 //time complex =O(n)       //Sliding Window Algo
+    public boolean containsNearbyDuplicate(int[] nums, int k) {
+        HashSet<Integer> window = new HashSet<>();  // creating hashset to keep track of elements within the current window of size k
+        int l = 0;  // starting with left pointer 
+        for(int r = 0 ; r < nums.length ; r++ ){ // 'r' is the right pointer, incrementing each time loops execute
+            if ( r - l > k){ // making sure that we dont go beyond the given window
+                window.remove(nums[l]); // if we move beyond it, make space by removing the first element of the set
+                l+=1; // increase l by 1 to maintain the size of window
+            }
+            if ( window.contains(nums[r])){ // if the window already contains r, that means its a duplicate, so we return true
+                return true;
+            }
+        
+        window.add(nums[r]); // add the right most element of window to the set, to make sure to continue moving through the given array trying to find the duplicate.
+        }
+        
+        return false; // returns false if no duplicate element is found
+        
+    }
+}
