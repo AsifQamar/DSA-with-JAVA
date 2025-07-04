@@ -1,0 +1,36 @@
+class Solution {
+    public boolean checkInclusion(String s1, String s2) {
+        int n1 = s1.length();
+        int n2 = s2.length();
+
+        // If s1 is longer than s2, s2 can't contain its permutation
+        if (n1 > n2) return false;
+
+        // Arrays to count characters in s1 and in current window of s2
+        int[] count1 = new int[26];
+        int[] count2 = new int[26];
+
+        // Fill both count arrays for the first window of length n1
+        for (int i = 0; i < n1; i++) {
+            count1[s1.charAt(i) - 'a']++;
+            count2[s2.charAt(i) - 'a']++;
+        }
+
+        // If the first window is a match
+        if (areEqual(count1, count2)) return true;
+
+        // Slide the window across s2
+        for (int i = n1; i < n2; i++) {
+            // Add the new character from right end of window
+            count2[s2.charAt(i) - 'a']++;
+
+            // Remove the character that's no longer in window (leftmost)
+            count2[s2.charAt(i - n1) - 'a']--;
+
+            // Check if current window is a permutation
+            if (areEqual(count1, count2)) return true;
+        }
+
+        return false;
+    }
+
