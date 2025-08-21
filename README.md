@@ -52,23 +52,22 @@ The project is structured logically, with each major topic residing in its own d
 
 ```
 /dsa-java
-â”œâ”€â”€ .gitignore
-â”œâ”€â”€ README.md
-â””â”€â”€ /src
-    â”œâ”€â”€ /arrays
-    â”œâ”€â”€ /backtracking
-    â”œâ”€â”€ /bitmanipulation
-    â”œâ”€â”€ /dynamicprogramming
-    â”œâ”€â”€ /graphs
-    â”œâ”€â”€ /heaps
-    â”œâ”€â”€ /linkedlists
-    â”œâ”€â”€ /recursion
-    â”œâ”€â”€ /searching
-    â”œâ”€â”€ /sorting
-    â”œâ”€â”€ /stacks
-    â”œâ”€â”€ /strings
-    â”œâ”€â”€ /trees
-    â””â”€â”€ /tries
+.gitignore
+ README.md
+  /src
+     /arrays
+     /backtracking
+     /bitmanipulation
+     /dynamicprogramming
+     /graphs
+     /heaps
+     /linkedlists
+     /recursion
+     /searching & sorting
+     /stacks
+     /strings
+     /trees
+     /tries
 ```
 
 ---
@@ -115,7 +114,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 This repository heavily relies on the fantastic content from the following educators and platforms:
 
-* [Kunal Kushwahaâ€™s DSA Bootcamp Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+* [Kunal Kushwaha DSA Bootcamp Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 * [AlgoCamp](https://algocamp.io/)
 
 ---
@@ -126,4 +125,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ---
 
-Thanks for visiting! **Happy Coding!** ðŸ💻
+Thanks for visiting! **Happy Coding!** 💻
