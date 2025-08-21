@@ -7,7 +7,7 @@ Welcome to my **DSA repository** where I practice and implement Data Structures 
 * **My Currated DSA questions**
 ---
 
-## 🚀 About This Repo
+## ð About This Repo
 
 This repository contains:
 
@@ -15,7 +15,7 @@ This repository contains:
 * Solutions to problems covered in Kunal Kushwaha's DSA Bootcamp and AlgoCamp and My DSA sheet
 ---
 
-## 📚 Topics Covered
+## ð Topics Covered
 
 ### Data Structures
 
@@ -38,23 +38,23 @@ This repository contains:
 * String Algorithms
 ---
 
-## 📂 Repository Structure
+## ð Repository Structure
 
 ```
 /DSA-Java
-│
-├── /arrays
-├── /linkedlists
-├── /stacks-queues
-├── /trees
-├── /graphs
-├── /dynamic-programming
-└── README.md
+â
+âââ /arrays
+âââ /linkedlists
+âââ /stacks-queues
+âââ /trees
+âââ /graphs
+âââ /dynamic-programming
+âââ README.md
 ```
 
 ---
 
-## 💡 How to Use This Repo
+## ð¡ How to Use This Repo
 
 1. **Clone the repository**
 
@@ -71,16 +71,40 @@ This repository contains:
 
 ---
 
-## 📖 Learning Resources
+## ð Learning Resources
 
-* [Kunal Kushwaha’s DSA Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+* [Kunal Kushwahaâs DSA Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 ---
 
-## 🤝 Contributions & Feedback
+## ð¤ Contributions & Feedback
 
 If you find any issues or want to contribute, please open an issue or pull request.
 
 ---
 
-Thanks for visiting! Happy coding! 🚀 
+Thanks for visiting! Happy coding! ð 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
+<!---LeetCode Topics End-->
