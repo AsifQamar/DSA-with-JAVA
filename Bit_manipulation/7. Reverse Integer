@@ -1,0 +1,37 @@
+class Solution {
+    public int reverse(int n) {
+        int revNum = 0;
+        //  MIN = -2147483648, MAX = 2147483648; 
+
+        while(n!=0) {
+            int num = n % 10;
+           if (revNum < Integer.MIN_VALUE / 10 || revNum > Integer.MAX_VALUE / 10) {
+                return 0;
+            }
+            revNum = (revNum * 10) + num;
+            n = n / 10;
+        }
+        return revNum;
+    }
+}
+
+/*
+    Extract the Last Digit:
+
+    Use n % 10 to get the last digit of the number.
+
+    Append the Digit to the Reversed Number:
+
+    Multiply the current revNum by 10 and add the extracted digit.
+
+    Handle Overflow:
+
+    Before performing the append operation, check if revNum will exceed the 32-bit signed integer range ([-2^31, 2^31 - 1]).
+    If an overflow is detected, return 0.
+
+    Remove the Last Digit from n:
+
+    Use integer division (n / 10) to discard the last digit.
+
+    Repeat Until n Becomes 0.
+*/
