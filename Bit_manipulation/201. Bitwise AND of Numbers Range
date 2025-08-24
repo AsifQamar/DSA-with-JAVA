@@ -1,0 +1,19 @@
+class Solution {
+    public int rangeBitwiseAnd(int left, int right) {
+        // Variable to count how many bits we have shifted
+        int shift = 0;
+
+        // Keep shifting both left and right until they become equal
+        // Because as long as left != right, there exists some number
+        // in the range [left, right] that changes the lower bits to 0.
+        while (left != right) {
+            left >>= 1;   // Right shift left by 1 (drop the last bit)
+            right >>= 1;  // Right shift right by 1 (drop the last bit)
+            shift++;      // Count how many times we shifted
+        }
+
+        // At this point, left == right → this is the common prefix
+        // Now shift back (restore the common prefix into its original position)
+        return left <<= shift;
+    }
+}
