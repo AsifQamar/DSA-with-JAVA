@@ -13,13 +13,13 @@ The problems and learning path are inspired by some of the best resources availa
 
 ---
 
-## 🎯 About This Repository
+## ð¯ About This Repository
 
 This project is dedicated to providing clear and efficient Java implementations of fundamental data structures and algorithms. Each solution is crafted to be readable, well-commented, and easy to understand.
 
 ---
 
-## 📚 Topics Covered
+## ð Topics Covered
 
 The repository is organized by topic, covering a wide range of essential DSA concepts.
 
@@ -46,7 +46,7 @@ The repository is organized by topic, covering a wide range of essential DSA con
 
 ---
 
-## 📂 Repository Structure
+## ð Repository Structure
 
 The project is structured logically, with each major topic residing in its own directory for easy navigation.
 
@@ -72,7 +72,7 @@ The project is structured logically, with each major topic residing in its own d
 
 ---
 
-## 🚀 Getting Started
+## ð Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
@@ -96,7 +96,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ---
 
-## 🤝 Contributing
+## ð¤ Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -110,7 +110,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ---
 
-## 🎓 Learning Resources
+## ð Learning Resources
 
 This repository heavily relies on the fantastic content from the following educators and platforms:
 
@@ -119,10 +119,22 @@ This repository heavily relies on the fantastic content from the following educa
 
 ---
 
-## 📝 License
+## ð License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
 
-Thanks for visiting! **Happy Coding!** 💻
+Thanks for visiting! **Happy Coding!** ð»
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0907-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0907-koko-eating-bananas) |
+<!---LeetCode Topics End-->
