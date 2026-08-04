@@ -10,4 +10,20 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
