@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0222-count-complete-tree-nodes) |
+## Array
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
