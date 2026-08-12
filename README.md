@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0057-insert-interval) |
 | [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
