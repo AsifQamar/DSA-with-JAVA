@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0279-perfect-squares) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
+| [0279-perfect-squares](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0279-perfect-squares) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -69,4 +71,16 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
