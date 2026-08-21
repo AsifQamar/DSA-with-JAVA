@@ -33,12 +33,14 @@
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0057-insert-interval) |
 | [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0279-perfect-squares) |
+## Sorting
+|  |
+| ------- |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
