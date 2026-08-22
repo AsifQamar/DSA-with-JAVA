@@ -7,6 +7,7 @@
 | [1153-product-sales-analysis-i](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Linked List
 |  |
 | ------- |
