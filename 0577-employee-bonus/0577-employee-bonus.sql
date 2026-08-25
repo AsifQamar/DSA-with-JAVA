@@ -1,0 +1,1 @@
+select name , bonus from employee left join Bonus on employee.empId = Bonus.empId where bonus < 1000 or bonus IS NULL;
