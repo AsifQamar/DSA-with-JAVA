@@ -46,6 +46,7 @@
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
