@@ -1,0 +1,1 @@
+select s.user_id,round(ifnull((c2.cnt2)/(c1.cnt1),0),2) as confirmation_rate from signups s left join (select user_id,count(action) as cnt1 from confirmations group by user_id) c1 on (s.user_id=c1.user_id) left join (select user_id,count(action) as cnt2 from confirmations where action="confirmed" group by user_id ) c2 on (c1.user_id=c2.user_id) group by s.user_id;

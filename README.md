@@ -12,6 +12,7 @@
 | [1258-article-views-i](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [2087-confirmation-rate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2087-confirmation-rate) |
 ## Linked List
 |  |
 | ------- |
