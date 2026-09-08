@@ -55,11 +55,13 @@
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0171-excel-sheet-column-number) |
 | [0279-perfect-squares](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0279-perfect-squares) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0171-excel-sheet-column-number) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
