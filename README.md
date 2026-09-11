@@ -39,6 +39,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0057-insert-interval) |
+| [0135-candy](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
