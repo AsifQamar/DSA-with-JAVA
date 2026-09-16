@@ -46,6 +46,7 @@
 | [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1829-maximum-units-on-a-truck](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1829-maximum-units-on-a-truck) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1829-maximum-units-on-a-truck) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -116,6 +118,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1829-maximum-units-on-a-truck](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1829-maximum-units-on-a-truck) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting
 |  |
 | ------- |
