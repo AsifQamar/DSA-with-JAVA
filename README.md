@@ -56,6 +56,7 @@
 | [0135-candy](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0649-dota2-senate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0171-excel-sheet-column-number) |
+| [0649-dota2-senate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0876-hand-of-straights) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
