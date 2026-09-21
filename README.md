@@ -59,6 +59,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -79,6 +80,7 @@
 | [0171-excel-sheet-column-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0171-excel-sheet-column-number) |
 | [0649-dota2-senate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0768-partition-labels) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -133,9 +135,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0876-hand-of-straights) |
 ## Queue
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0649-dota2-senate) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
