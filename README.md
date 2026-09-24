@@ -45,6 +45,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0876-hand-of-straights](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0890-lemonade-change) |
+| [1020-longest-turbulent-subarray](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1020-longest-turbulent-subarray) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1829-maximum-units-on-a-truck](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1829-maximum-units-on-a-truck) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -99,6 +100,7 @@
 | [0279-perfect-squares](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
+| [1020-longest-turbulent-subarray](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1020-longest-turbulent-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0768-partition-labels) |
+## Sliding Window
+|  |
+| ------- |
+| [1020-longest-turbulent-subarray](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1020-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
