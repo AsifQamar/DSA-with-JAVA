@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0171-excel-sheet-column-number) |
+| [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
 | [0649-dota2-senate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0768-partition-labels) |
@@ -151,4 +152,28 @@
 |  |
 | ------- |
 | [1020-longest-turbulent-subarray](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1020-longest-turbulent-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
