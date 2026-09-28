@@ -11,6 +11,7 @@
 | [0577-employee-bonus](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2087-confirmation-rate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2087-confirmation-rate) |
@@ -172,7 +173,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
