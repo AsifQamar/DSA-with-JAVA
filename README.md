@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0057-insert-interval) |
 | [0134-gas-station](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0134-gas-station) |
@@ -54,6 +55,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0135-candy) |
@@ -148,6 +150,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0768-partition-labels) |
 ## Sliding Window
 |  |
@@ -173,7 +176,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
