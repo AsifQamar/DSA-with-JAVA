@@ -10,6 +10,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1153-product-sales-analysis-i) |
+| [1161-project-employees-i](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
@@ -176,7 +177,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
