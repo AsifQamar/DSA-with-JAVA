@@ -42,6 +42,7 @@
 | [0011-container-with-most-water](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0435-non-overlapping-intervals) |
@@ -132,6 +133,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0876-hand-of-straights](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0876-hand-of-straights) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0088-merge-sorted-array) |
 | [0768-partition-labels](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0768-partition-labels) |
 ## Sliding Window
 |  |
@@ -180,7 +183,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
-## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
