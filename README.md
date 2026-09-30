@@ -82,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
 | [0649-dota2-senate](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0649-dota2-senate) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0131-palindrome-partitioning) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0045-jump-game-ii) |
+| [0131-palindrome-partitioning](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0678-valid-parenthesis-string) |
@@ -177,7 +180,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
-## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0214-shortest-palindrome) |
