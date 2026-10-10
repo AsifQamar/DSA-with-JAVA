@@ -5,12 +5,12 @@ class Solution:
         def inorder(node):
             nonlocal first, second, prev
 
-            if not node:
+            if node is None:
                 return
 
             inorder(node.left)
 
-            if prev and prev.val > node.val:
+            if prev is not None and prev.val > node.val:
                 if first is None:
                     first = prev
                 second = node
@@ -21,4 +21,5 @@ class Solution:
 
         inorder(root)
 
-        first.val, second.val = second.val, first.val
+        if first is not None and second is not None:
+            first.val, second.val = second.val, first.val
