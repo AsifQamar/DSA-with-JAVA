@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
