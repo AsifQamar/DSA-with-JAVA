@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0303-range-sum-query-immutable](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
@@ -34,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
