@@ -6,6 +6,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
@@ -31,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0990-verifying-an-alien-dictionary) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
@@ -65,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -85,4 +88,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
