@@ -16,6 +16,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2102-find-the-middle-index-in-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3226-minimum-number-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,11 +71,13 @@
 | [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [3226-minimum-number-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [3226-minimum-number-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -92,4 +95,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
