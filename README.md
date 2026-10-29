@@ -11,6 +11,7 @@
 | [0303-range-sum-query-immutable](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0724-find-pivot-index) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1014-k-closest-points-to-origin) |
@@ -46,6 +47,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0990-verifying-an-alien-dictionary) |
 ## Math
 |  |
@@ -76,6 +78,7 @@
 | [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1014-k-closest-points-to-origin) |
 | [3226-minimum-number-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -83,6 +86,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1014-k-closest-points-to-origin) |
 | [3226-minimum-number-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
@@ -94,6 +98,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -104,6 +109,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
 | ------- |
