@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1014-k-closest-points-to-origin) |
 | [3226-minimum-number-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
@@ -122,4 +124,20 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1014-k-closest-points-to-origin) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
