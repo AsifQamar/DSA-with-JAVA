@@ -14,6 +14,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0792-binary-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1014-k-closest-points-to-origin) |
 | [1603-running-sum-of-1d-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1603-running-sum-of-1d-array) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0792-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
