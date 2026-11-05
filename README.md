@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0128-longest-consecutive-sequence) |
@@ -134,6 +135,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0792-binary-search) |
 ## Binary Tree
