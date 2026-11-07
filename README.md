@@ -56,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0089-gray-code) |
 | [1014-k-closest-points-to-origin](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0069-sqrtx) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0792-binary-search) |
 ## Binary Tree
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
