@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0724-find-pivot-index) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0069-sqrtx) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0792-binary-search) |
 ## Binary Tree
