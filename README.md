@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
