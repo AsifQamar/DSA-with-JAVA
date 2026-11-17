@@ -63,6 +63,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0089-gray-code) |
+| [0400-nth-digit](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0400-nth-digit) |
 | [1014-k-closest-points-to-origin](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
@@ -146,6 +147,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0400-nth-digit](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0792-binary-search) |
