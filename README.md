@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0089-gray-code) |
+| [0137-single-number-ii](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0137-single-number-ii) |
 ## Union-Find
 |  |
 | ------- |
