@@ -1,14 +1,11 @@
 class Solution:
     def topKFrequent(self, arr: list[int], k: int) -> list[int]:
-        hashmap = {}
-        for x in arr:
-            if x in hashmap:
-                hashmap[x] += 1
-            else:
-                hashmap[x] = 1
+        frequency = Counter(arr)
+        min_heap = []
 
-        ans = sorted(hashmap.items(), key=lambda x: x[1], reverse=True)
-        result = []
-        for i in range(k):
-            result.append(ans[i][0])
-        return result
+        for num, freq in frequency.items():
+            heapq.heappush(min_heap, (freq, num))
+
+            if len(min_heap) > k:
+                heapq.heappop(min_heap)
+        return [num for freq, num in min_heap]
