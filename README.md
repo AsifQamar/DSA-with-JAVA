@@ -47,6 +47,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0990-verifying-an-alien-dictionary) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
@@ -56,6 +57,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0990-verifying-an-alien-dictionary) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
@@ -182,4 +185,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0074-search-a-2d-matrix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
