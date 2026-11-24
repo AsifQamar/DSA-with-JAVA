@@ -50,6 +50,7 @@
 | [0179-largest-number](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0459-repeated-substring-pattern) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0990-verifying-an-alien-dictionary) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
@@ -196,4 +197,16 @@
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0097-interleaving-string) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0459-repeated-substring-pattern) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
