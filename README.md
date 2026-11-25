@@ -70,6 +70,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0089-gray-code) |
+| [0292-nim-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0292-nim-game) |
 | [0400-nth-digit](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0400-nth-digit) |
 | [1014-k-closest-points-to-origin](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
@@ -205,8 +206,28 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0459-repeated-substring-pattern) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0459-repeated-substring-pattern) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AsifQamar/DSA-with-JAVA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
